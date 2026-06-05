@@ -1,5 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Zinal Shah From C# language!");
+﻿MyMethod();
+MySecondMethod();
+MyThirdMethod();
+void MyMethod()
+{
+    Console.WriteLine("Zinal First Method");
+}
 
-Console.WriteLine("Hello, Jensen Thomas From C# language!rrr");
+void MySecondMethod()
+{
+    Console.WriteLine("Zinal Second Method");
+}
 
+void MyThirdMethod()
+{
+    Console.WriteLine("Zinal Third Method");
+}
