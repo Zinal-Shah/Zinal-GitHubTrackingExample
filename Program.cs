@@ -13,5 +13,5 @@ void MySecondMethod()
 
 void MyThirdMethod()
 {
-    Console.WriteLine("Jensen Thomas Third Method.");
+    Console.WriteLine("Zinal Third Method.");
 }
