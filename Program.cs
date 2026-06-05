@@ -8,7 +8,7 @@ void MyMethod()
 
 void MySecondMethod()
 {
-    Console.WriteLine("Zinal Second Method");
+    Console.WriteLine("Zinal Second Method.");
 }
 
 void MyThirdMethod()
