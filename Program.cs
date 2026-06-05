@@ -13,5 +13,5 @@ void MySecondMethod()
 
 void MyThirdMethod()
 {
-    Console.WriteLine("Zinal Third Method.");
+    Console.WriteLine("Zinal-Revert Third Method.");
 }
